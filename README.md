@@ -1,4 +1,8 @@
 # Data_Analysis_Class_Documentation
 This is where i will document all my learnings from Incubator Hub's classes
-#Data_Sources
+## Data_Sources
 Online free data
+## Tools
+- Microsoft Excel for Data Analysis
+- SQL: Structured Query Language
+- GitHub: Building of portfolio
