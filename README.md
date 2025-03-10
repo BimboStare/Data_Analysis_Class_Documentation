@@ -9,3 +9,9 @@ Online free data
   3. Data Structuring
 - SQL: Structured Query Language
 - GitHub: Building of portfolio
+## Data Analysis
+ In this section, we will evaluate some of the codes used to analyse data in SQL and MsExcel
+ ``` SQL
+SELECT * FROM EMPLOYEE_TABLE
+WHERE STATE_OF_ORIGIN = DELTA
+```
