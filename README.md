@@ -28,7 +28,7 @@ The second step is to wait for the data to load, click on the sheets needed for 
 
 
 ### Appending of Data
-Add more data to the row
+Add more data to the row. Only Similar data can be appended
 
 ### Merging of Data
 Adds more data to the column
