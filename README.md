@@ -28,7 +28,9 @@ The second step is to wait for the data to load, click on the sheets needed for 
 
 
 ### Appending of Data
-Add more data to the row. Only Similar data can be appended
+Add more data to the row. Only Similar data can be appended, that is, data with the same Schema and structure. Check Image below to see similar data.
 
 ### Merging of Data
 Adds more data to the column
+
+### How to know when to Append or Merge
