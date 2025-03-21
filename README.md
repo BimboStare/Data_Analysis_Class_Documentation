@@ -21,3 +21,14 @@ Power BI is a Business Intelligence app used in the analysis of Data. Power BI i
 The first step to getting data lies in having an idea of your Data Type. The ability to distinguish a CRV file from an Excel or SQL file essential to the correctness and functionality of the data selected.
 The second step is to wait for the data to load, click on the sheets needed for analysis to preview and transform if need be, then close and apply or load.
 ## Steps To Follow In Transforming Data
+
+
+
+
+
+
+### Appending of Data
+Add more data to the row
+
+### Merging of Data
+Adds more data to the column
